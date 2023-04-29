@@ -19,5 +19,5 @@ String func(String s) {
 }
 
 void main() {
-  print(func('navruzolam2023'));
+  print(func('uzbek'));
 }

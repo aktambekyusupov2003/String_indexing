@@ -13,5 +13,5 @@ String func(String s) {
 }
 
 void main() {
-  print(func('uzbek'));
+  print(func('Nurobod'));
 }

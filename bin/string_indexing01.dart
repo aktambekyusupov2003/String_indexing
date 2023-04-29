@@ -1,5 +1,3 @@
-import 'string_indexing02.dart';
-
 String func(String s) {
   """
     The string variable s is given. return the first character.
@@ -14,5 +12,5 @@ String func(String s) {
 }
 
 void main() {
-  print(func('uzbek'));
+  print(func('Samarqand'));
 }

@@ -17,5 +17,5 @@ String func(String s) {
 }
 
 void main() {
-  print(func('uzb_pubg'));
+  print(func('Uzbek_pubg'));
 }

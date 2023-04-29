@@ -19,5 +19,5 @@ String func(String s, int n) {
 }
 
 void main() {
-  print(func('uzbekpubg', 5));
+  print(func('UzbekPubg', 10));
 }

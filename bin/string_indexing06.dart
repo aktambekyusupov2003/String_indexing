@@ -14,5 +14,5 @@ String func(String s) {
 }
 
 void main() {
-  print(func('nurobod_uz1'));
+  print(func('Nurobod_Pubg'));
 }

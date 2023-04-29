@@ -5,11 +5,11 @@ String func(String s) {
 //Returns:
 //str: answer
 
-  String answer = s[2];
+  String answer = s[1];
 
   return answer;
 }
 
 void main() {
-  print(func('uzbek'));
+  print(func('nurobod'));
 }
